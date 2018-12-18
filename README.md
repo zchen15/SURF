@@ -15,7 +15,7 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 
 * Annotate all interesting features/genes in the provided plasmid sequences
   * biobrick parts or derivatives thereof are likely heavily being used
-  * bonus points if you can also identify the most likely pdb structures of the proteins being expressed
+  * bonus points if you can also identify the most likely PDB structures of the proteins being expressed
 * Design the primers which will be used to identify your plasmids via colony PCR
 * Specify the primers you will use to sequence verify your whole plasmid
 * Use the annotated plasmid map to figure out what you are studying or testing
@@ -35,5 +35,9 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 * http://parts.igem.org/Promoters
 * http://parts.igem.org/Ribosome_Binding_Site/about
 * https://blog.addgene.org/plasmids-101-terminators-and-polya-signals
+* https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch
 
 ## Analyzing biological data using python
+
+
+Please provide your responses and code submissions as a git repository. Submit your write ups in the README.md
