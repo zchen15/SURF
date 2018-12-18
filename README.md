@@ -16,9 +16,14 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 * Annotate all interesting features/genes in the provided plasmid sequences
   * biobrick parts or derivatives thereof are likely heavily being used
   * bonus points if you can also identify the most likely pdb structures of the proteins being expressed
-* Use the annotated plasmid map to figure out what you are studying or testing
 * Design the primers which will be used to identify your plasmids via colony PCR
 * Specify the primers you will use to sequence verify your whole plasmid
+* Use the annotated plasmid map to figure out what you are studying or testing
+* Important details to know in order to perform the experiment:
+    1. What resistance gene and origin of replication is the plasmid carrying. Does it even have an origin of replication? What antibiotics will you use?
+    2. What reporter proteins are being used or expressed? How will I measure the signal?
+    3. What inducible promoters are being used and what inducer chemical do I need to run my experiment?
+    4. How will I be plotting and interpreting the data?
 
 ### Here are some useful resources
 * http://jorgensen.biology.utah.edu/wayned/ape/
