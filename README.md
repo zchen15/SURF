@@ -2,7 +2,7 @@
 
 The following are a few exercises to gauge your understanding of cloning, troubleshooting, and data analysis in biological sciences. These skills are not taught in a classroom and are gained by practice. Please try your best to complete these exercises and detail your strategy for solving the problem. Please also note anywhere if you have any difficulties solving the problem.
 
-## Plasmid Annotation and WTH??
+## Plasmid Annotation and WTH?
 The following is adapted from a real story that commonly occurs in biology labs.
 
 Your PI is an onerously vague and mysterious person. Before leaving on a 6 month sabbatical to Antartica to photograph penguins and hunt for aliens, they ask you to run some experiments in order to study some vague phenomena of bacterial gene regulation. On your bench is a single PCR tube containing the plasmids of interest and in your email are two wholly unannotated plasmid sequences labeled control.gb and test.gb
