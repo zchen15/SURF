@@ -42,3 +42,5 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 
 Please provide your responses and code submissions as a git repository. Submit your write ups in the README.md 
 Aim to be brief and concise in the descriptions of what you did and how you solved each problem.
+
+Best of Luck! :)
