@@ -20,10 +20,10 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 * Specify the primers you will use to sequence verify your whole plasmid
 * Use the annotated plasmid map to figure out what you are studying or testing
 * Important details to know in order to perform the experiment:
-    1. What resistance gene and origin of replication is the plasmid carrying. Does it even have an origin of replication? What antibiotics will you use?
+    1. What resistance gene and origin of replication is the plasmid carrying. Does it even have an origin of replication? What antibiotics will be used?
     2. What reporter proteins are being used or expressed? How will I measure the signal?
     3. What inducible promoters are being used and what inducer chemical do I need to run my experiment?
-    4. How will I be plotting and interpreting the data?
+    4. How will I plot and interpret the data?
 
 ### Here are some useful resources
 * http://jorgensen.biology.utah.edu/wayned/ape/
