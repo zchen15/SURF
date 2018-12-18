@@ -18,6 +18,7 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
   * bonus points if you can also identify the most likely PDB structures of the proteins being expressed
 * Design the primers which will be used to identify your plasmids via colony PCR
 * Specify the primers you will use to sequence verify your whole plasmid
+  * note: annotate primers used on the plasmid maps
 * Use the annotated plasmid map to figure out what you are studying or testing
 * Important details to know in order to perform the experiment:
     1. What resistance gene and origin of replication is the plasmid carrying. Does it even have an origin of replication? What antibiotics will be used?
