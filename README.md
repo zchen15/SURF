@@ -28,7 +28,7 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 
 ### Here are some useful resources
 * http://jorgensen.biology.utah.edu/wayned/ape/
-* https://blog.addgene.org/plasmid-101-origin-of-replicatio
+* https://blog.addgene.org/plasmid-101-origin-of-replication
 * https://blog.addgene.org/plasmids-101-colony-pcr
 * https://www.addgene.org/protocols/sequence-analysis/
 * https://tmcalculator.neb.com/#!/main
