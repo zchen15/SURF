@@ -41,10 +41,19 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 ## Analyzing biological data using python
 The following is adapted from Bebi103 taught by our brillant lab alumni Dr. Justin Bois.
 
-After a night of drunken escapades, caltech graduate students Ravi, Claire, and Michael decided to embark on the age old of question of do jellyfish sleep. More details on this study can be found here:
+After a night of drunken escapades, caltech graduate students Ravi, Claire, and Michael decided to embark on the age old of question of do jellyfish sleep.
 
+More details on this study can be found here:
+* http://www.caltech.edu/news/surprising-ancient-behavior-jellyfish-79701
 
+To answer this question, the trio monitored the pulsation of Cassiopea upside-down jellyfish during their night and day phases via timelapse imaging. Provided are the raw data acquired by the researchers.
 
+The task is the following:
+1. Download timelapse
+2. Measure the pulsations of the jellyfish via image analysis and obtain time traces of the pulsatile activity
+3. Plot the time traces and obtain 
+4. 
+5. 
 
 ## Collaboration
 Please adhere to the caltech honor code when completing these exercises. Your responses are to be your own original work. No collaboration is allowed.
