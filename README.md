@@ -49,11 +49,13 @@ More details on this study can be found here:
 To answer this question, the trio monitored the pulsation of Cassiopea upside-down jellyfish during their night and day phases via timelapse imaging. Provided are the raw data acquired by the researchers.
 
 The task is the following:
-1. Download timelapse
+1. Download timelapse data
 2. Measure the pulsations of the jellyfish via image analysis and obtain time traces of the pulsatile activity
-3. Plot the time traces and obtain 
-4. 
-5. 
+3. Plot the time traces and note on any irregularities
+4. Calculate the interpulse times for each jellyfish during night and day phases
+5. Plot the distribution of interpulse times for each jellyfish via histogram and ecdf
+
+Finally, use frequentist or bayesian methods to determine if jellyfish really do sleep in the provided datasets.
 
 ## Collaboration
 Please adhere to the caltech honor code when completing these exercises. Your responses are to be your own original work. No collaboration is allowed.
