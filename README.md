@@ -39,7 +39,17 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 * https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch
 
 ## Analyzing biological data using python
+The following is adapted from Bebi103 taught by our brillant lab alumni Dr. Justin Bois.
 
+After a night of drunken escapades, caltech graduate students Ravi, Claire, and Michael decided to embark on the age old of question of do jellyfish sleep. More details on this study can be found here:
+
+
+
+
+## Collaboration
+Please adhere to the caltech honor code when completing these exercises. Your responses are to be your own original work. No collaboration is allowed.
+
+## Submission
 
 Please provide your responses and code submissions as a git repository and email us the link. Submit your write ups in the README.md 
 
