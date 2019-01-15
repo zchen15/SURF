@@ -94,7 +94,7 @@ Some tutorials on setting up jupyter notebook and getting started with data anal
 Please adhere to the caltech honor code when completing these exercises. Your responses are to be your own original work. No collaboration is allowed.
 
 ## Submission
-You may provide your responses and code submissions as a git repository and email us the link. Submit your write ups in the README.md 
+You may provide your responses and code submissions as a git repository and email us the link. Submit your write ups in the README.md. Include in your submission relevant code, jupyter notebook, the annotated plasmid files, and references.
 
 __*Aim to be brief and concise in the descriptions of what you did and how you solved each problem.*__
 
