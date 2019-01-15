@@ -88,6 +88,7 @@ Some tutorials on setting up jupyter notebook and getting started with data anal
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/tutorials/t0a_python_for_scientific_computing.html
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/tutorials/t8b_extracting_info_from_images.html
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/tutorials/t8a_time_series.html
+* Generating plot using matplotlib will also make your life easier. Bokeh is for fancy people.
 
 ## Collaboration
 Please adhere to the caltech honor code when completing these exercises. Your responses are to be your own original work. No collaboration is allowed.
