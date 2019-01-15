@@ -57,8 +57,9 @@ The task is the following:
 3. Plot the time traces and note on any irregularities
 4. Obtain the interpulse times for each jellyfish during night and day phases
 5. Plot the distribution of interpulse times for each jellyfish via histogram or ecdf
+6. Generate any other plots to support your conclusion about jellyfish sleep
 
-Finally, based on the provided datasets and plots you have generated, determine if jellyfish really do sleep. What kind of time series random process do the pulses seem to follow?
+Based on the provided dataset, determine if jellyfish really do sleep. Support your reasoning with plots. Sometimes you may need to get creative. It may help to think about what time series random processes the pulses seem to follow?
 
 We will be impressed if you can justify your claim through statistics from frequentist or bayesian methods.
 
