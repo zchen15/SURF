@@ -1,7 +1,7 @@
 # Primer on the SURF project
 Wetlab and programming skills are now indispensible to the modern biologist. As such, to give you a taste of what this project might entail, we have provided two puzzles for you to try out.
 
-These exercises will help gauge your understanding of cloning, troubleshooting, and data analysis in biological sciences. These skills are not taught in a classroom and are gained by practice. Please try your best to complete these exercises and detail your strategy for solving the problem. Please also note anywhere if you have any difficulties solving the problem.
+These exercises will help us gauge your understanding of cloning, troubleshooting, and data analysis in biological sciences. Some of these skills are not taught in a classroom and are gained by practice. Please try your best to complete these exercises and detail your strategy for solving the problem. Please also note anywhere if you have any difficulties solving the problem.
 
 ## Plasmid Annotation and WTH?
 The following is adapted from a real story that commonly occurs in biology labs.
@@ -10,14 +10,14 @@ Your PI is an onerously vague and mysterious person. Before leaving on a 6 month
 
 By nature of the expedition, your PI will be out of contact for the next 6 months.
 
-**Your task is to deduce what exactly you are being asked to study and complete those experiments before your PI comes back.**
+**Your task is to deduce what exactly you are being asked to study and plan how you will do those experiments before your PI comes back.**
 
 If you are completely clueless about how to solve this problem. Don't worry. *Welcome to grad school!! ;)* Thankfully, your fellow labmates have provided you with some helpful tips for solving this problem.
 
 * Annotate all interesting features/genes in the provided plasmid sequences
   * biobrick parts or derivatives thereof are likely heavily being used
   * bonus points if you can also identify the most likely PDB structures of the proteins being expressed
-* Design the primers which will be used to identify your plasmids via colony PCR
+* Design the primers which will be used to distinguish your plasmids via colony PCR
 * Specify the primers you will use to sequence verify your whole plasmid
   * annotate primers used on the plasmid maps
 * Use the annotated plasmid map to figure out what you are studying or testing
@@ -50,7 +50,7 @@ More details on this study can be found here:
 To answer this question, the trio monitored the pulsation of Cassiopea upside-down jellyfish during their night and day phases via timelapse imaging. Provided are the raw data acquired by the researchers.
 
 The task is the following:
-1. Download timelapse data.
+1. Download the timelapse data.
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/data/cassiopea_pulsation.zip
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/homework/hw8.html
 2. Measure the pulsations of the jellyfish via image analysis and obtain time traces of the pulsatile activity
@@ -65,9 +65,9 @@ We will be impressed if you can justify your claim through statistics from frequ
 Please submit your responses to this exercise preferrably as a jupyter notebook and make sure we can run it. As a backup, you can export your jupyter notebook as an html5 webpage. Simply include this in your submission file.
 
 ### Auxiliary info
-If you are feeling inadept at python, you may skip task2 as we do not expect anyone to have background in image analysis. Within the repository, we have already provided the time series data in csv format and you may start your analysis from there.
+You may skip task2 as we do not expect anyone to have background in image analysis. Within the repository, we have already provided the time series data in csv format and you may start your analysis from there.
 
-For those bold enough to accept the challenge or have background in machine learning, we will be impressed if you can write code to do image segmentation with deep neural networks and obtain the time traces. If you choose this path, we recommend using keras and training with convolutional neural networks.
+However, we will be impressed if you can write code to do image segmentation with deep neural networks and obtain the time traces. If you choose this path, we recommend using keras and training with convolutional neural networks.
 
 Some helpful machine learning resources
 * http://www.yisongyue.com/courses/cs155/2019_winter/
@@ -75,20 +75,17 @@ Some helpful machine learning resources
 * https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 * https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 
-### Why are we doing this?
-We want to make sure you are not completely inept at understanding and running python scripts provided by your lab mates or are completely clueless at how to plot scientific data. This exercise serves as a useful tutorial before you join the lab.
-
-Although cloning will be a majority of the project, you will have handle raw data from the plate reader and sometimes it is painful to process via excel.
-
-If you lack time, simply focus on the cloning exercise as that will be far more relevant.
-
-### Below are some useful resources
 Some tutorials on setting up jupyter notebook and getting started with data analysis in python from bebi103
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/documents.html
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/tutorials/t0a_python_for_scientific_computing.html
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/tutorials/t8b_extracting_info_from_images.html
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/tutorials/t8a_time_series.html
-* Generating plot using matplotlib will also make your life easier. Bokeh is for fancy people.
+* Generating plots using matplotlib will make your life easier. Bokeh is for fancy people.
+
+### Why are we doing this?
+Although cloning will be a majority of the project, you will have to handle raw data from the plate reader and sometimes it is painful to process via excel. We want to make sure you can understand and run python scripts provided by your lab mates. We also want to see you capable of making elegant scientific plots from raw data.
+
+These exercises serve as useful tutorials. If you lack time, you may write how you will solve the sections of the python exercise. Focus more on the cloning exercise as that will be far more relevant.
 
 ## Collaboration
 Please adhere to the caltech honor code when completing these exercises. Your responses are to be your own original work. No collaboration is allowed.
