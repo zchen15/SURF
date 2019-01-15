@@ -78,7 +78,9 @@ Some helpful machine learning resources
 ### Why are we doing this?
 We want to make sure you are not completely inept at understanding and running python scripts provided by your lab mates or are completely clueless at how to plot scientific data. This exercise serves as a useful tutorial before you join the lab.
 
-Although cloning will be a majority of the project, you will have handle raw data from the plate reader and sometimes it is painful to process via excel. Trust us...
+Although cloning will be a majority of the project, you will have handle raw data from the plate reader and sometimes it is painful to process via excel.
+
+If you lack time, simply focus on the cloning exercise as that will be far more relevant.
 
 ### Below are some useful resources
 Some tutorials on setting up jupyter notebook and getting started with data analysis in python from bebi103
