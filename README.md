@@ -100,7 +100,7 @@ __*Aim to be brief and concise in the descriptions of what you did and how you s
 
 Alternatively, you may email us a zip or tar archive of your responses and code.
 
-## Its too hard
+## It is too hard
 Do not worry. We do not everyone to completely get both exercises. If you find them difficult, it just means do not yet have the background for the task at hand. As with everything in life, knowledge and skill is gained over time and with patience. We will be equally impressed just to see you give it your best try. Do not feel bad if you need to leave some sections incomplete.
 
 Best of Luck! :)
