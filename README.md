@@ -95,6 +95,7 @@ Please adhere to the caltech honor code when completing these exercises. Your re
 
 ## Submission
 You may provide your responses and code submissions as a git repository and email us the link. Submit your write ups in the README.md 
+
 __*Aim to be brief and concise in the descriptions of what you did and how you solved each problem.*__
 
 Alternatively, you may email us a zip or tar archive of your responses and code.
