@@ -53,7 +53,7 @@ The task is the following:
 1. Download the timelapse data.
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/data/cassiopea_pulsation.zip
 * http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2017/homework/hw8.html
-SURF/Data/
+* https://github.com/zchen15/SURF/blob/master/Data/JellyTime.csv
 2. Measure the pulsations of the jellyfish via image analysis and obtain time traces of the pulsatile activity
 3. Plot the time traces and note on any irregularities
 4. Obtain the interpulse times for each jellyfish during night and day phases
