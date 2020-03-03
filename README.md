@@ -1,7 +1,7 @@
 # Primer on the SURF project
 Wetlab and programming skills are now indispensible to the modern biologist. As such, to give you a taste of what this project might entail, we have provided two puzzles for you to try out.
 
-These exercises will help us gauge your understanding of cloning, troubleshooting, and data analysis in biological sciences. Some of these skills are not taught in a classroom and are gained by practice. Please try your best to complete these exercises and detail your strategy for solving the problem. Please also note anywhere if you have any difficulties solving the problem.
+These exercises will help us gauge your understanding of cloning, troubleshooting, and data analysis in biological sciences. Some of these skills are not taught in a classroom and are gained by practice. Please try your best to complete these exercises and detail your strategy for solving the problem. Please also note anywhere where you have difficulties solving the problem, hate the problem, or absolutely love it when you figure it out.
 
 ## Plasmid Annotation and WTH?
 The following is adapted from a real story that commonly occurs in biology labs.
@@ -29,6 +29,7 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 
 ### Here are some useful resources
 * http://jorgensen.biology.utah.edu/wayned/ape/
+* https://www.benchling.com/
 * https://blog.addgene.org/plasmid-101-origin-of-replication
 * https://blog.addgene.org/plasmids-101-colony-pcr
 * https://www.addgene.org/protocols/sequence-analysis/
@@ -37,10 +38,12 @@ If you are completely clueless about how to solve this problem. Don't worry. *We
 * http://parts.igem.org/Promoters
 * http://parts.igem.org/Ribosome_Binding_Site/about
 * https://blog.addgene.org/plasmids-101-terminators-and-polya-signals
+* http://parts.igem.org/sequencing/index.cgi
 * https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch
+* https://nupack.org
 
 ## Charming the snake charmer. Scientific data analysis with python.
-The following is adapted from bebi103 taught by our brillant lab alumni Dr. Justin Bois.
+The following is adapted from bebi103 taught by the famous Dr. Justin Bois.
 
 After a night of drunken escapades, caltech graduate students Ravi, Claire, and Michael decided to embark on the age old of question of "do jellyfish sleep?"
 
@@ -102,4 +105,4 @@ Alternatively, you may email us a zip or tar archive of your responses and code.
 ## It is too hard
 Do not worry. If you find them difficult, it just means do not yet have the background for the task at hand. As with everything in life, knowledge and skill is gained over time and with patience. We will be equally impressed just to see you give it your best try. Do not feel bad if you need to leave some sections incomplete.
 
-Best of Luck! :)
+Best of Luck!
